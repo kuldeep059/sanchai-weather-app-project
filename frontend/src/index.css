@@ -1,0 +1,7 @@
+/* Simple CSS Reset for better presentation */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+}
